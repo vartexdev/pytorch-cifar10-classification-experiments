@@ -61,7 +61,7 @@ This project has successfully progressed from a v1.0 baseline (77.22%) to a v2.0
 ## Next Steps: Model Deployment
 
 * [x] ~~Improve model accuracy to 85%~~ (Done, 84.43% achieved)
-* [ ] **Convert the trained model (`.pth`) to `.onnx` format.**
+* [x] **Convert the trained model (`.pth`) to `.onnx` format.**
 ## Setup and Usage
 
 To run this project on your local machine:
