@@ -54,6 +54,14 @@ This project successfully demonstrates the iterative process of developing a dee
 
 By switching to a **Convolutional Neural Network** and applying **Batch Normalization**, the test accuracy was improved from a plateau of **~52%** to a final score of **77.22%**. This highlights that choosing the right model architecture is the most critical factor for success in computer vision tasks.
 
+## Project Status: v2.0 - 84.43% Accuracy
+
+This project has successfully progressed from a v1.0 baseline (77.22%) to a v2.0 model achieving **84.43%** test accuracy. This was accomplished by implementing **Data Augmentation** to solve overfitting and systematically increasing model capacity (from 2 blocks/50 units to **3 blocks/128 units**).
+
+## Next Steps: Model Deployment
+
+* [x] ~~Improve model accuracy to 85%~~ (Done, 84.43% achieved)
+* [ ] **Convert the trained model (`.pth`) to `.onnx` format.**
 ## Setup and Usage
 
 To run this project on your local machine:
